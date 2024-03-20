@@ -1,5 +1,4 @@
 import {Row , Col} from 'react-bootstrap'
-// import products from '../products';
 import axios from 'axios'
 import Product from '../components/Product';
 import { useEffect, useState } from 'react';
